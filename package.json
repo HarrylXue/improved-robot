@@ -1,0 +1,8 @@
+{
+  "name": "improved-robot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:HarrylXue/improved-robot.git",
+  "author": "Harry <svip.harry@gmail.com>",
+  "license": "MIT"
+}
